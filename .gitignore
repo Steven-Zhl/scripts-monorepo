@@ -1,5 +1,6 @@
 
 .idea/
+.vscode/
 __pycache__
 Python/SendIPByEmail.py
 Python/SubtitleTranslator/myconfig.yaml
